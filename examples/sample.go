@@ -3,7 +3,8 @@ package main
 import (
 	"encoding/hex"
 	"fmt"
-	"github.com/herumi/bls-eth-go-binary/bls"
+
+	"github.com/GridPlus/bls-eth-go-binary/bls"
 )
 
 func sample1() {

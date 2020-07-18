@@ -1,3 +1,3 @@
 module github.com/GridPlus/bls-eth-go-binary
 
-go 0.1
+go 1.14
