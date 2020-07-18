@@ -1,3 +1,3 @@
-module github.com/herumi/bls-eth-go-binary
+module github.com/GridPlus/bls-eth-go-binary
 
-go 1.12
+go 0.1
